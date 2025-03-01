@@ -75,7 +75,7 @@
 
 **12. How can you succinctly convey the purpose and key features of a product?**
 
-> Use a one-sentence summary (e.g., "This tool automates report generation for businesses.").
-> List key features in bullet points.
-> Highlight the core benefits (e.g., "Saves time, reduces errors, and improves efficiency.").
+* Use a one-sentence summary (e.g., "This tool automates report generation for businesses.").
+* List key features in bullet points.
+* Highlight the core benefits (e.g., "Saves time, reduces errors, and improves efficiency.").
 
